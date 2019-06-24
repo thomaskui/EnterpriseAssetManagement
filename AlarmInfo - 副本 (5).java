@@ -7,7 +7,7 @@ import com.thoughtworks.xstream.annotations.XStreamAlias;
 public class AlarmInfo {
 	
 	@XStreamAlias("AlarmID")
-	public String AlarmID;
+	public int AlarmID;
 	@XStreamAlias("RoomID")
 	public int RoomID;
 	@XStreamAlias("RoomName")
