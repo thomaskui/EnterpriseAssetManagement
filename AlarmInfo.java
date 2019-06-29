@@ -5,7 +5,7 @@ import java.util.Date;
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
 public class AlarmInfo {
-	
+	"我是测试用户！！！"
 	@XStreamAlias("AlarmID")
 	public int AlarmID;
 	@XStreamAlias("RoomID")
